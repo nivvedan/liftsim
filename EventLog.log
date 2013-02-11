@@ -1,0 +1,869 @@
+ --- SIMULATION EVENT LOG --- 
+
+At time 5.3338 : Customer 1 arrives at floor number 5 and places a call in the UP direction.
+At time 17.0394 : Customer 2 arrives at floor number 55 and places a call in the DOWN direction.
+At time 30.3338 : Elevator 1 arrives at floor number 5 and customer 1 enters the elevator
+At time 30.3338 : Customer 1 in Elevator 1 would like to go to floor number 86
+At time 34.619 : Customer 3 arrives at floor number 35 and places a call in the DOWN direction.
+At time 51.8365 : Customer 4 arrives at floor number 56 and places a call in the DOWN direction.
+At time 62.9243 : Customer 5 arrives at floor number 3 and places a call in the UP direction.
+At time 76.7612 : Customer 6 arrives at floor number 28 and places a call in the DOWN direction.
+At time 77.9243 : Elevator 3 arrives at floor number 3 and customer 5 enters the elevator
+At time 77.9243 : Customer 5 in Elevator 3 would like to go to floor number 69
+At time 85.1744 : Customer 7 arrives at floor number 91 and places a call in the DOWN direction.
+At time 101.432 : Customer 8 arrives at floor number 64 and places a call in the UP direction.
+At time 109.533 : Customer 9 arrives at floor number 16 and places a call in the UP direction.
+At time 114.619 : Elevator 2 arrives at floor number 16 and customer 9 enters the elevator
+At time 114.619 : Customer 9 in Elevator 2 would like to go to floor number 100
+At time 126.433 : Customer 10 arrives at floor number 6 and places a call in the UP direction.
+At time 140.375 : Customer 11 arrives at floor number 62 and places a call in the UP direction.
+At time 140.602 : Customer 12 arrives at floor number 95 and places a call in the UP direction.
+At time 156.433 : Elevator 4 arrives at floor number 6 and customer 10 enters the elevator
+At time 156.433 : Customer 10 in Elevator 4 would like to go to floor number 73
+At time 159.035 : Customer 13 arrives at floor number 40 and places a call in the DOWN direction.
+At time 175.007 : Customer 14 arrives at floor number 84 and places a call in the DOWN direction.
+At time 190.032 : Customer 15 arrives at floor number 8 and places a call in the UP direction.
+At time 194.262 : Customer 16 arrives at floor number 57 and places a call in the DOWN direction.
+At time 197.885 : Customer 17 arrives at floor number 67 and places a call in the DOWN direction.
+At time 199.035 : Elevator 5 arrives at floor number 8 and customer 15 enters the elevator
+At time 199.035 : Customer 15 in Elevator 5 would like to go to floor number 59
+At time 199.705 : Customer 18 arrives at floor number 39 and places a call in the UP direction.
+At time 200.334 : Elevator 1 arrives at floor number 39 and customer 18 enters the elevator
+At time 200.334 : Customer 18 in Elevator 1 would like to go to floor number 74
+At time 202.924 : Elevator 3 arrives at floor number 28 and customer 6 enters the elevator
+At time 202.924 : Customer 6 in Elevator 3 would like to go to floor number 25
+At time 219.501 : Customer 19 arrives at floor number 59 and places a call in the UP direction.
+At time 220.692 : Customer 20 arrives at floor number 52 and places a call in the UP direction.
+At time 237.608 : Customer 21 arrives at floor number 82 and places a call in the UP direction.
+At time 245.381 : Customer 22 arrives at floor number 98 and places a call in the DOWN direction.
+At time 255.183 : Customer 23 arrives at floor number 28 and places a call in the UP direction.
+At time 256.138 : Customer 24 arrives at floor number 70 and places a call in the DOWN direction.
+At time 265.334 : Elevator 1 arrives at floor number 52 and customer 20 enters the elevator
+At time 265.334 : Customer 20 in Elevator 1 would like to go to floor number 62
+At time 266.433 : Elevator 4 arrives at floor number 28 and customer 23 enters the elevator
+At time 266.433 : Customer 23 in Elevator 4 would like to go to floor number 90
+At time 268.671 : Customer 25 arrives at floor number 2 and places a call in the UP direction.
+At time 269.629 : Customer 26 arrives at floor number 70 and places a call in the DOWN direction.
+At time 275.725 : Customer 27 arrives at floor number 62 and places a call in the DOWN direction.
+At time 278.671 : Elevator 6 arrives at floor number 2 and customer 25 enters the elevator
+At time 278.671 : Customer 25 in Elevator 6 would like to go to floor number 48
+At time 290.129 : Customer 28 arrives at floor number 61 and places a call in the UP direction.
+At time 292.623 : Customer 29 arrives at floor number 11 and places a call in the UP direction.
+At time 298.864 : Customer 30 arrives at floor number 27 and places a call in the UP direction.
+At time 310.334 : Elevator 1 arrives at floor number 61 and customer 28 enters the elevator
+At time 310.334 : Customer 28 in Elevator 1 would like to go to floor number 77
+At time 315.334 : Customer 20 leaves Elevator 1 at floor 62
+At time 315.737 : Customer 31 arrives at floor number 82 and places a call in the DOWN direction.
+At time 315.823 : Customer 32 arrives at floor number 48 and places a call in the DOWN direction.
+At time 323.047 : Customer 33 arrives at floor number 80 and places a call in the DOWN direction.
+At time 323.671 : Elevator 6 arrives at floor number 11 and customer 29 enters the elevator
+At time 323.671 : Customer 29 in Elevator 6 would like to go to floor number 35
+At time 329.815 : Customer 34 arrives at floor number 10 and places a call in the UP direction.
+At time 350.485 : Customer 35 arrives at floor number 63 and places a call in the DOWN direction.
+At time 369.985 : Customer 36 arrives at floor number 99 and places a call in the DOWN direction.
+At time 370.334 : Elevator 1 arrives at floor number 59 and customer 19 enters the elevator
+At time 370.334 : Customer 19 in Elevator 1 would like to go to floor number 90
+At time 374.582 : Customer 37 arrives at floor number 60 and places a call in the DOWN direction.
+At time 375.334 : Elevator 1 arrives at floor number 48 and customer 32 enters the elevator
+At time 375.334 : Customer 32 in Elevator 1 would like to go to floor number 31
+At time 379.815 : Elevator 7 arrives at floor number 10 and customer 34 enters the elevator
+At time 379.815 : Customer 34 in Elevator 7 would like to go to floor number 95
+At time 391.218 : Customer 38 arrives at floor number 21 and places a call in the UP direction.
+At time 399.619 : Elevator 2 arrives at floor number 35 and customer 3 enters the elevator
+At time 399.619 : Customer 3 in Elevator 2 would like to go to floor number 11
+At time 403.671 : Elevator 6 arrives at floor number 27 and customer 30 enters the elevator
+At time 403.671 : Customer 30 in Elevator 6 would like to go to floor number 53
+At time 407.924 : Customer 5 leaves Elevator 3 at floor 69
+At time 407.983 : Customer 39 arrives at floor number 99 and places a call in the DOWN direction.
+At time 409.99 : Customer 40 arrives at floor number 92 and places a call in the DOWN direction.
+At time 410.334 : Customer 28 leaves Elevator 1 at floor 77
+At time 415.334 : Elevator 1 arrives at floor number 82 and customer 21 enters the elevator
+At time 415.334 : Customer 21 in Elevator 1 would like to go to floor number 90
+At time 426.504 : Customer 41 arrives at floor number 73 and places a call in the UP direction.
+At time 427.924 : Elevator 3 arrives at floor number 73 and customer 41 enters the elevator
+At time 427.924 : Customer 41 in Elevator 3 would like to go to floor number 88
+At time 434.815 : Elevator 7 arrives at floor number 21 and customer 38 enters the elevator
+At time 434.815 : Customer 38 in Elevator 7 would like to go to floor number 33
+At time 443.105 : Customer 42 arrives at floor number 88 and places a call in the DOWN direction.
+At time 443.564 : Customer 43 arrives at floor number 67 and places a call in the DOWN direction.
+At time 443.671 : Customer 29 leaves Elevator 6 at floor 35
+At time 444.035 : Elevator 5 arrives at floor number 57 and customer 16 enters the elevator
+At time 444.035 : Customer 16 in Elevator 5 would like to go to floor number 54
+At time 445.334 : Customer 18 leaves Elevator 1 at floor 74
+At time 450.792 : Customer 44 arrives at floor number 43 and places a call in the DOWN direction.
+At time 454.035 : Customer 15 leaves Elevator 5 at floor 59
+At time 455.324 : Customer 45 arrives at floor number 5 and places a call in the UP direction.
+At time 475.506 : Customer 46 arrives at floor number 45 and places a call in the DOWN direction.
+At time 479.035 : Customer 16 leaves Elevator 5 at floor 54
+At time 480.324 : Elevator 8 arrives at floor number 5 and customer 45 enters the elevator
+At time 480.324 : Customer 45 in Elevator 8 would like to go to floor number 34
+At time 482.924 : Elevator 3 arrives at floor number 84 and customer 14 enters the elevator
+At time 482.924 : Customer 14 in Elevator 3 would like to go to floor number 56
+At time 491.433 : Elevator 4 arrives at floor number 70 and customer 24 enters the elevator
+At time 491.433 : Customer 24 in Elevator 4 would like to go to floor number 40
+At time 491.433 : Elevator 4 arrives at floor number 70 and customer 26 enters the elevator
+At time 491.433 : Customer 26 in Elevator 4 would like to go to floor number 4
+At time 491.433 : Elevator 4 arrives at floor number 62 and customer 27 enters the elevator
+At time 491.433 : Customer 27 in Elevator 4 would like to go to floor number 37
+At time 491.433 : Elevator 4 arrives at floor number 63 and customer 35 enters the elevator
+At time 491.433 : Customer 35 in Elevator 4 would like to go to floor number 49
+At time 491.433 : Elevator 4 arrives at floor number 60 and customer 37 enters the elevator
+At time 491.433 : Customer 37 in Elevator 4 would like to go to floor number 57
+At time 492.924 : Elevator 3 arrives at floor number 82 and customer 31 enters the elevator
+At time 492.924 : Customer 31 in Elevator 3 would like to go to floor number 34
+At time 494.035 : Elevator 5 arrives at floor number 67 and customer 17 enters the elevator
+At time 494.035 : Customer 17 in Elevator 5 would like to go to floor number 44
+At time 494.815 : Customer 38 leaves Elevator 7 at floor 33
+At time 495.334 : Elevator 1 arrives at floor number 98 and customer 22 enters the elevator
+At time 495.334 : Customer 22 in Elevator 1 would like to go to floor number 84
+At time 496.502 : Customer 47 arrives at floor number 50 and places a call in the UP direction.
+At time 502.924 : Elevator 3 arrives at floor number 80 and customer 33 enters the elevator
+At time 502.924 : Customer 33 in Elevator 3 would like to go to floor number 59
+At time 502.924 : Customer 41 leaves Elevator 3 at floor 88
+At time 504.619 : Elevator 2 arrives at floor number 56 and customer 4 enters the elevator
+At time 504.619 : Customer 4 in Elevator 2 would like to go to floor number 25
+At time 509.171 : Customer 48 arrives at floor number 30 and places a call in the UP direction.
+At time 518.671 : Elevator 6 arrives at floor number 50 and customer 47 enters the elevator
+At time 518.671 : Customer 47 in Elevator 6 would like to go to floor number 93
+At time 521.595 : Customer 49 arrives at floor number 24 and places a call in the UP direction.
+At time 522.924 : Elevator 3 arrives at floor number 92 and customer 40 enters the elevator
+At time 522.924 : Customer 40 in Elevator 3 would like to go to floor number 87
+At time 524.035 : Elevator 5 arrives at floor number 45 and customer 46 enters the elevator
+At time 524.035 : Customer 46 in Elevator 5 would like to go to floor number 32
+At time 525.175 : Customer 50 arrives at floor number 89 and places a call in the DOWN direction.
+At time 527.808 : Customer 51 arrives at floor number 85 and places a call in the DOWN direction.
+At time 529.035 : Customer 17 leaves Elevator 5 at floor 44
+At time 530.555 : Customer 52 arrives at floor number 70 and places a call in the UP direction.
+At time 533.671 : Customer 30 leaves Elevator 6 at floor 53
+At time 534.035 : Elevator 5 arrives at floor number 43 and customer 44 enters the elevator
+At time 534.035 : Customer 44 in Elevator 5 would like to go to floor number 4
+At time 534.619 : Customer 9 leaves Elevator 2 at floor 100
+At time 539.619 : Elevator 2 arrives at floor number 99 and customer 36 enters the elevator
+At time 539.619 : Customer 36 in Elevator 2 would like to go to floor number 20
+At time 539.619 : Elevator 2 arrives at floor number 99 and customer 39 enters the elevator
+At time 539.619 : Customer 39 in Elevator 2 would like to go to floor number 34
+At time 544.14 : Customer 53 arrives at floor number 60 and places a call in the DOWN direction.
+At time 544.382 : Customer 54 arrives at floor number 11 and places a call in the UP direction.
+At time 551.166 : Customer 55 arrives at floor number 97 and places a call in the DOWN direction.
+At time 566.433 : Elevator 4 arrives at floor number 88 and customer 42 enters the elevator
+At time 566.433 : Customer 42 in Elevator 4 would like to go to floor number 18
+At time 571.013 : Customer 56 arrives at floor number 64 and places a call in the DOWN direction.
+At time 571.433 : Elevator 4 arrives at floor number 89 and customer 50 enters the elevator
+At time 571.433 : Customer 50 in Elevator 4 would like to go to floor number 69
+At time 571.433 : Elevator 4 arrives at floor number 85 and customer 51 enters the elevator
+At time 571.433 : Customer 51 in Elevator 4 would like to go to floor number 7
+At time 575.324 : Elevator 8 arrives at floor number 24 and customer 49 enters the elevator
+At time 575.324 : Customer 49 in Elevator 8 would like to go to floor number 78
+At time 576.433 : Customer 23 leaves Elevator 4 at floor 90
+At time 580.334 : Elevator 1 arrives at floor number 55 and customer 2 enters the elevator
+At time 580.334 : Customer 2 in Elevator 1 would like to go to floor number 49
+At time 585.334 : Customer 19 leaves Elevator 1 at floor 90
+At time 585.334 : Customer 21 leaves Elevator 1 at floor 90
+At time 585.334 : Elevator 1 arrives at floor number 70 and customer 52 enters the elevator
+At time 585.334 : Customer 52 in Elevator 1 would like to go to floor number 95
+At time 589.035 : Customer 46 leaves Elevator 5 at floor 32
+At time 589.762 : Customer 57 arrives at floor number 85 and places a call in the DOWN direction.
+At time 599.035 : Elevator 5 arrives at floor number 30 and customer 48 enters the elevator
+At time 599.035 : Customer 48 in Elevator 5 would like to go to floor number 80
+At time 599.382 : Elevator 9 arrives at floor number 11 and customer 54 enters the elevator
+At time 599.382 : Customer 54 in Elevator 9 would like to go to floor number 70
+At time 603.671 : Elevator 6 arrives at floor number 67 and customer 43 enters the elevator
+At time 603.671 : Customer 43 in Elevator 6 would like to go to floor number 44
+At time 606.378 : Customer 58 arrives at floor number 62 and places a call in the UP direction.
+At time 609.619 : Elevator 2 arrives at floor number 85 and customer 57 enters the elevator
+At time 609.619 : Customer 57 in Elevator 2 would like to go to floor number 2
+At time 611.433 : Elevator 4 arrives at floor number 97 and customer 55 enters the elevator
+At time 611.433 : Customer 55 in Elevator 4 would like to go to floor number 41
+At time 615.334 : Elevator 1 arrives at floor number 62 and customer 11 enters the elevator
+At time 615.334 : Customer 11 in Elevator 1 would like to go to floor number 78
+At time 615.334 : Elevator 1 arrives at floor number 64 and customer 56 enters the elevator
+At time 615.334 : Customer 56 in Elevator 1 would like to go to floor number 53
+At time 620.858 : Customer 59 arrives at floor number 38 and places a call in the DOWN direction.
+At time 625.334 : Elevator 1 arrives at floor number 64 and customer 8 enters the elevator
+At time 625.334 : Customer 8 in Elevator 1 would like to go to floor number 85
+At time 625.938 : Customer 60 arrives at floor number 15 and places a call in the UP direction.
+At time 634.011 : Customer 61 arrives at floor number 46 and places a call in the DOWN direction.
+At time 635.334 : Elevator 1 arrives at floor number 60 and customer 53 enters the elevator
+At time 635.334 : Customer 53 in Elevator 1 would like to go to floor number 27
+At time 639.815 : Elevator 7 arrives at floor number 62 and customer 58 enters the elevator
+At time 639.815 : Customer 58 in Elevator 7 would like to go to floor number 99
+At time 645.324 : Elevator 8 arrives at floor number 38 and customer 59 enters the elevator
+At time 645.324 : Customer 59 in Elevator 8 would like to go to floor number 22
+At time 647.924 : Customer 33 leaves Elevator 3 at floor 59
+At time 649.68 : Customer 62 arrives at floor number 97 and places a call in the UP direction.
+At time 651.801 : Customer 63 arrives at floor number 32 and places a call in the UP direction.
+At time 652.378 : Customer 64 arrives at floor number 78 and places a call in the DOWN direction.
+At time 655.334 : Customer 22 leaves Elevator 1 at floor 84
+At time 667.062 : Customer 65 arrives at floor number 95 and places a call in the DOWN direction.
+At time 670.334 : Customer 56 leaves Elevator 1 at floor 53
+At time 678.671 : Elevator 6 arrives at floor number 46 and customer 61 enters the elevator
+At time 678.671 : Customer 61 in Elevator 6 would like to go to floor number 28
+At time 679.035 : Elevator 5 arrives at floor number 40 and customer 13 enters the elevator
+At time 679.035 : Customer 13 in Elevator 5 would like to go to floor number 33
+At time 688.044 : Customer 66 arrives at floor number 44 and places a call in the UP direction.
+At time 688.671 : Customer 43 leaves Elevator 6 at floor 44
+At time 690.334 : Customer 2 leaves Elevator 1 at floor 49
+At time 700.938 : Elevator 10 arrives at floor number 15 and customer 60 enters the elevator
+At time 700.938 : Customer 60 in Elevator 10 would like to go to floor number 77
+At time 704.382 : Elevator 9 arrives at floor number 32 and customer 63 enters the elevator
+At time 704.382 : Customer 63 in Elevator 9 would like to go to floor number 57
+At time 706.016 : Customer 67 arrives at floor number 93 and places a call in the DOWN direction.
+At time 706.433 : Elevator 4 arrives at floor number 78 and customer 64 enters the elevator
+At time 706.433 : Customer 64 in Elevator 4 would like to go to floor number 34
+At time 713.904 : Customer 68 arrives at floor number 33 and places a call in the UP direction.
+At time 716.538 : Customer 69 arrives at floor number 19 and places a call in the UP direction.
+At time 720.938 : Elevator 10 arrives at floor number 19 and customer 69 enters the elevator
+At time 720.938 : Customer 69 in Elevator 10 would like to go to floor number 77
+At time 721.609 : Customer 70 arrives at floor number 49 and places a call in the UP direction.
+At time 725.324 : Customer 45 leaves Elevator 8 at floor 34
+At time 725.324 : Customer 59 leaves Elevator 8 at floor 22
+At time 729.035 : Customer 44 leaves Elevator 5 at floor 4
+At time 729.354 : Customer 71 arrives at floor number 47 and places a call in the DOWN direction.
+At time 735.334 : Customer 1 leaves Elevator 1 at floor 86
+At time 740.256 : Customer 72 arrives at floor number 19 and places a call in the UP direction.
+At time 742.924 : Customer 14 leaves Elevator 3 at floor 56
+At time 748.031 : Customer 73 arrives at floor number 86 and places a call in the UP direction.
+At time 753.671 : Customer 47 leaves Elevator 6 at floor 93
+At time 757.484 : Elevator 8 arrives at floor number 33 and customer 68 enters the elevator
+At time 757.484 : Customer 68 in Elevator 8 would like to go to floor number 72
+At time 759.547 : Elevator 6 arrives at floor number 49 and customer 70 enters the elevator
+At time 759.547 : Customer 70 in Elevator 6 would like to go to floor number 58
+At time 759.815 : Elevator 7 arrives at floor number 86 and customer 73 enters the elevator
+At time 759.815 : Customer 73 in Elevator 7 would like to go to floor number 99
+At time 760.334 : Elevator 1 arrives at floor number 91 and customer 7 enters the elevator
+At time 760.334 : Customer 7 in Elevator 1 would like to go to floor number 7
+At time 764.382 : Elevator 9 arrives at floor number 44 and customer 66 enters the elevator
+At time 764.382 : Customer 66 in Elevator 9 would like to go to floor number 60
+At time 767.857 : Customer 74 arrives at floor number 79 and places a call in the DOWN direction.
+At time 775.409 : Customer 75 arrives at floor number 8 and places a call in the DOWN direction.
+At time 776.623 : Customer 76 arrives at floor number 46 and places a call in the UP direction.
+At time 777.924 : Customer 6 leaves Elevator 3 at floor 25
+At time 780.334 : Elevator 1 arrives at floor number 95 and customer 12 enters the elevator
+At time 780.334 : Customer 12 in Elevator 1 would like to go to floor number 99
+At time 787.924 : Customer 40 leaves Elevator 3 at floor 87
+At time 788.671 : Customer 61 leaves Elevator 6 at floor 28
+At time 792.89 : Customer 77 arrives at floor number 1 and places a call in the UP direction.
+At time 799.619 : Elevator 2 arrives at floor number 47 and customer 71 enters the elevator
+At time 799.619 : Customer 71 in Elevator 2 would like to go to floor number 3
+At time 800.334 : Customer 53 leaves Elevator 1 at floor 27
+At time 801.229 : Customer 78 arrives at floor number 60 and places a call in the DOWN direction.
+At time 808.671 : Elevator 6 arrives at floor number 46 and customer 76 enters the elevator
+At time 808.671 : Customer 76 in Elevator 6 would like to go to floor number 47
+At time 812.332 : Customer 79 arrives at floor number 17 and places a call in the UP direction.
+At time 813.671 : Customer 76 leaves Elevator 6 at floor 47
+At time 824.815 : Customer 73 leaves Elevator 7 at floor 99
+At time 828.312 : Customer 80 arrives at floor number 97 and places a call in the DOWN direction.
+At time 829.035 : Customer 48 leaves Elevator 5 at floor 80
+At time 829.382 : Customer 63 leaves Elevator 9 at floor 57
+At time 833.862 : Customer 81 arrives at floor number 85 and places a call in the UP direction.
+At time 834.035 : Elevator 5 arrives at floor number 79 and customer 74 enters the elevator
+At time 834.035 : Customer 74 in Elevator 5 would like to go to floor number 43
+At time 834.815 : Elevator 7 arrives at floor number 97 and customer 80 enters the elevator
+At time 834.815 : Customer 80 in Elevator 7 would like to go to floor number 74
+At time 834.944 : Customer 82 arrives at floor number 35 and places a call in the DOWN direction.
+At time 835.334 : Customer 11 leaves Elevator 1 at floor 78
+At time 835.537 : Customer 83 arrives at floor number 82 and places a call in the UP direction.
+At time 839.302 : Customer 84 arrives at floor number 52 and places a call in the DOWN direction.
+At time 839.933 : Elevator 6 arrives at floor number 52 and customer 84 enters the elevator
+At time 839.933 : Customer 84 in Elevator 6 would like to go to floor number 36
+At time 840.334 : Elevator 1 arrives at floor number 19 and customer 72 enters the elevator
+At time 840.334 : Customer 72 in Elevator 1 would like to go to floor number 67
+At time 843.044 : Customer 85 arrives at floor number 55 and places a call in the DOWN direction.
+At time 844.382 : Customer 66 leaves Elevator 9 at floor 60
+At time 845.324 : Customer 49 leaves Elevator 8 at floor 78
+At time 852.719 : Customer 86 arrives at floor number 89 and places a call in the DOWN direction.
+At time 852.924 : Customer 31 leaves Elevator 3 at floor 34
+At time 859.619 : Elevator 2 arrives at floor number 35 and customer 82 enters the elevator
+At time 859.619 : Customer 82 in Elevator 2 would like to go to floor number 6
+At time 868.671 : Customer 70 leaves Elevator 6 at floor 58
+At time 870.334 : Customer 8 leaves Elevator 1 at floor 85
+At time 870.764 : Customer 87 arrives at floor number 48 and places a call in the DOWN direction.
+At time 874.815 : Elevator 7 arrives at floor number 89 and customer 86 enters the elevator
+At time 874.815 : Customer 86 in Elevator 7 would like to go to floor number 23
+At time 876.365 : Customer 88 arrives at floor number 17 and places a call in the UP direction.
+At time 878.671 : Customer 25 leaves Elevator 6 at floor 48
+At time 883.961 : Customer 89 arrives at floor number 59 and places a call in the DOWN direction.
+At time 894.382 : Elevator 9 arrives at floor number 82 and customer 83 enters the elevator
+At time 894.382 : Customer 83 in Elevator 9 would like to go to floor number 92
+At time 894.815 : Elevator 7 arrives at floor number 85 and customer 81 enters the elevator
+At time 894.815 : Customer 81 in Elevator 7 would like to go to floor number 88
+At time 895.334 : Elevator 1 arrives at floor number 8 and customer 75 enters the elevator
+At time 895.334 : Customer 75 in Elevator 1 would like to go to floor number 3
+At time 900.334 : Customer 7 leaves Elevator 1 at floor 7
+At time 901.47 : Customer 90 arrives at floor number 43 and places a call in the UP direction.
+At time 914.815 : Elevator 7 arrives at floor number 97 and customer 62 enters the elevator
+At time 914.815 : Customer 62 in Elevator 7 would like to go to floor number 98
+At time 914.815 : Elevator 7 arrives at floor number 95 and customer 65 enters the elevator
+At time 914.815 : Customer 65 in Elevator 7 would like to go to floor number 30
+At time 914.815 : Elevator 7 arrives at floor number 93 and customer 67 enters the elevator
+At time 914.815 : Customer 67 in Elevator 7 would like to go to floor number 44
+At time 916.159 : Customer 91 arrives at floor number 52 and places a call in the DOWN direction.
+At time 920.334 : Customer 52 leaves Elevator 1 at floor 95
+At time 920.334 : Customer 75 leaves Elevator 1 at floor 3
+At time 921.195 : Customer 84 leaves Elevator 6 at floor 36
+At time 921.507 : Elevator 4 arrives at floor number 43 and customer 90 enters the elevator
+At time 921.507 : Customer 90 in Elevator 4 would like to go to floor number 64
+At time 925.735 : Customer 92 arrives at floor number 64 and places a call in the UP direction.
+At time 926.433 : Customer 64 leaves Elevator 4 at floor 34
+At time 926.433 : Elevator 4 arrives at floor number 48 and customer 87 enters the elevator
+At time 926.433 : Customer 87 in Elevator 4 would like to go to floor number 24
+At time 929.035 : Elevator 5 arrives at floor number 60 and customer 78 enters the elevator
+At time 929.035 : Customer 78 in Elevator 5 would like to go to floor number 39
+At time 930.334 : Elevator 1 arrives at floor number 1 and customer 77 enters the elevator
+At time 930.334 : Customer 77 in Elevator 1 would like to go to floor number 6
+At time 934.035 : Elevator 5 arrives at floor number 59 and customer 89 enters the elevator
+At time 934.035 : Customer 89 in Elevator 5 would like to go to floor number 1
+At time 934.815 : Customer 58 leaves Elevator 7 at floor 99
+At time 936.172 : Elevator 6 arrives at floor number 52 and customer 91 enters the elevator
+At time 936.172 : Customer 91 in Elevator 6 would like to go to floor number 48
+At time 941.206 : Customer 93 arrives at floor number 42 and places a call in the DOWN direction.
+At time 945.938 : Elevator 10 arrives at floor number 64 and customer 92 enters the elevator
+At time 945.938 : Customer 92 in Elevator 10 would like to go to floor number 83
+At time 949.815 : Customer 80 leaves Elevator 7 at floor 74
+At time 952.339 : Customer 94 arrives at floor number 18 and places a call in the UP direction.
+At time 954.035 : Elevator 5 arrives at floor number 55 and customer 85 enters the elevator
+At time 954.035 : Customer 85 in Elevator 5 would like to go to floor number 11
+At time 955.334 : Customer 77 leaves Elevator 1 at floor 6
+At time 966.244 : Customer 91 leaves Elevator 6 at floor 48
+At time 970.478 : Customer 95 arrives at floor number 71 and places a call in the DOWN direction.
+At time 975.324 : Customer 68 leaves Elevator 8 at floor 72
+At time 982.014 : Customer 96 arrives at floor number 25 and places a call in the UP direction.
+At time 989.593 : Customer 97 arrives at floor number 27 and places a call in the UP direction.
+At time 996.244 : Elevator 6 arrives at floor number 42 and customer 93 enters the elevator
+At time 996.244 : Customer 93 in Elevator 6 would like to go to floor number 31
+At time 997.561 : Customer 98 arrives at floor number 1 and places a call in the UP direction.
+At time 997.924 : Elevator 3 arrives at floor number 71 and customer 95 enters the elevator
+At time 997.924 : Customer 95 in Elevator 3 would like to go to floor number 37
+At time 1000.32 : Elevator 8 arrives at floor number 25 and customer 96 enters the elevator
+At time 1000.32 : Customer 96 in Elevator 8 would like to go to floor number 92
+At time 1004.38 : Customer 83 leaves Elevator 9 at floor 92
+At time 1004.62 : Customer 82 leaves Elevator 2 at floor 6
+At time 1010.32 : Elevator 8 arrives at floor number 27 and customer 97 enters the elevator
+At time 1010.32 : Customer 97 in Elevator 8 would like to go to floor number 39
+At time 1013.42 : Customer 99 arrives at floor number 15 and places a call in the DOWN direction.
+At time 1014.03 : Customer 74 leaves Elevator 5 at floor 43
+At time 1015.33 : Elevator 1 arrives at floor number 18 and customer 94 enters the elevator
+At time 1015.33 : Customer 94 in Elevator 1 would like to go to floor number 83
+At time 1016.85 : Customer 100 arrives at floor number 25 and places a call in the UP direction.
+At time 1019.62 : Customer 71 leaves Elevator 2 at floor 3
+At time 1026.51 : Elevator 1 arrives at floor number 15 and customer 99 enters the elevator
+At time 1026.51 : Customer 99 in Elevator 1 would like to go to floor number 7
+At time 1029.62 : Elevator 2 arrives at floor number 1 and customer 98 enters the elevator
+At time 1029.62 : Customer 98 in Elevator 2 would like to go to floor number 57
+At time 1034.04 : Customer 78 leaves Elevator 5 at floor 39
+At time 1034.96 : Customer 101 arrives at floor number 77 and places a call in the UP direction.
+At time 1040.94 : Customer 92 leaves Elevator 10 at floor 83
+At time 1041.65 : Customer 102 arrives at floor number 40 and places a call in the UP direction.
+At time 1058.98 : Elevator 10 arrives at floor number 77 and customer 101 enters the elevator
+At time 1058.98 : Customer 101 in Elevator 10 would like to go to floor number 85
+At time 1061.44 : Customer 103 arrives at floor number 82 and places a call in the DOWN direction.
+At time 1064.04 : Customer 13 leaves Elevator 5 at floor 33
+At time 1066.58 : Customer 90 leaves Elevator 4 at floor 64
+At time 1069 : Customer 104 arrives at floor number 66 and places a call in the DOWN direction.
+At time 1070.32 : Customer 97 leaves Elevator 8 at floor 39
+At time 1070.33 : Customer 99 leaves Elevator 1 at floor 7
+At time 1070.33 : Customer 32 leaves Elevator 1 at floor 31
+At time 1073.71 : Customer 105 arrives at floor number 36 and places a call in the UP direction.
+At time 1080.33 : Elevator 1 arrives at floor number 25 and customer 100 enters the elevator
+At time 1080.33 : Customer 100 in Elevator 1 would like to go to floor number 71
+At time 1087.58 : Customer 106 arrives at floor number 62 and places a call in the UP direction.
+At time 1088.03 : Customer 107 arrives at floor number 55 and places a call in the UP direction.
+At time 1091.43 : Customer 37 leaves Elevator 4 at floor 57
+At time 1094.09 : Customer 108 arrives at floor number 57 and places a call in the DOWN direction.
+At time 1095.94 : Elevator 10 arrives at floor number 82 and customer 103 enters the elevator
+At time 1095.94 : Customer 103 in Elevator 10 would like to go to floor number 65
+At time 1099.82 : Customer 67 leaves Elevator 7 at floor 44
+At time 1110.94 : Customer 101 leaves Elevator 10 at floor 85
+At time 1111.24 : Customer 93 leaves Elevator 6 at floor 31
+At time 1113.64 : Customer 109 arrives at floor number 72 and places a call in the DOWN direction.
+At time 1114.04 : Elevator 5 arrives at floor number 55 and customer 107 enters the elevator
+At time 1114.04 : Customer 107 in Elevator 5 would like to go to floor number 81
+At time 1120.33 : Elevator 1 arrives at floor number 17 and customer 79 enters the elevator
+At time 1120.33 : Customer 79 in Elevator 1 would like to go to floor number 25
+At time 1120.33 : Elevator 1 arrives at floor number 17 and customer 88 enters the elevator
+At time 1120.33 : Customer 88 in Elevator 1 would like to go to floor number 85
+At time 1121.43 : Customer 50 leaves Elevator 4 at floor 69
+At time 1122.72 : Customer 110 arrives at floor number 57 and places a call in the DOWN direction.
+At time 1125.94 : Elevator 10 arrives at floor number 66 and customer 104 enters the elevator
+At time 1125.94 : Customer 104 in Elevator 10 would like to go to floor number 47
+At time 1128.85 : Customer 111 arrives at floor number 55 and places a call in the UP direction.
+At time 1130.94 : Customer 103 leaves Elevator 10 at floor 65
+At time 1131.43 : Customer 35 leaves Elevator 4 at floor 49
+At time 1140.94 : Customer 69 leaves Elevator 10 at floor 77
+At time 1141.48 : Customer 112 arrives at floor number 84 and places a call in the DOWN direction.
+At time 1149.04 : Elevator 5 arrives at floor number 62 and customer 106 enters the elevator
+At time 1149.04 : Customer 106 in Elevator 5 would like to go to floor number 76
+At time 1156.58 : Elevator 4 arrives at floor number 72 and customer 109 enters the elevator
+At time 1156.58 : Customer 109 in Elevator 4 would like to go to floor number 19
+At time 1157.21 : Customer 113 arrives at floor number 51 and places a call in the UP direction.
+At time 1160.33 : Customer 79 leaves Elevator 1 at floor 25
+At time 1169.82 : Customer 65 leaves Elevator 7 at floor 30
+At time 1169.91 : Customer 114 arrives at floor number 46 and places a call in the DOWN direction.
+At time 1170.94 : Elevator 10 arrives at floor number 57 and customer 108 enters the elevator
+At time 1170.94 : Customer 108 in Elevator 10 would like to go to floor number 37
+At time 1170.94 : Elevator 10 arrives at floor number 57 and customer 110 enters the elevator
+At time 1170.94 : Customer 110 in Elevator 10 would like to go to floor number 44
+At time 1174.04 : Customer 85 leaves Elevator 5 at floor 11
+At time 1176.43 : Customer 24 leaves Elevator 4 at floor 40
+At time 1186.37 : Elevator 4 arrives at floor number 84 and customer 112 enters the elevator
+At time 1186.37 : Customer 112 in Elevator 4 would like to go to floor number 26
+At time 1188.17 : Customer 115 arrives at floor number 39 and places a call in the UP direction.
+At time 1191.43 : Customer 27 leaves Elevator 4 at floor 37
+At time 1198.48 : Customer 116 arrives at floor number 41 and places a call in the DOWN direction.
+At time 1204.62 : Elevator 2 arrives at floor number 36 and customer 105 enters the elevator
+At time 1204.62 : Customer 105 in Elevator 2 would like to go to floor number 84
+At time 1204.82 : Customer 86 leaves Elevator 7 at floor 23
+At time 1210.86 : Customer 117 arrives at floor number 74 and places a call in the DOWN direction.
+At time 1211.24 : Elevator 6 arrives at floor number 51 and customer 113 enters the elevator
+At time 1211.24 : Customer 113 in Elevator 6 would like to go to floor number 74
+At time 1219.04 : Customer 106 leaves Elevator 5 at floor 76
+At time 1219.62 : Elevator 2 arrives at floor number 39 and customer 115 enters the elevator
+At time 1219.62 : Customer 115 in Elevator 2 would like to go to floor number 42
+At time 1220.94 : Customer 104 leaves Elevator 10 at floor 47
+At time 1224.04 : Customer 89 leaves Elevator 5 at floor 1
+At time 1225.94 : Elevator 10 arrives at floor number 46 and customer 114 enters the elevator
+At time 1225.94 : Customer 114 in Elevator 10 would like to go to floor number 39
+At time 1230.7 : Customer 118 arrives at floor number 28 and places a call in the UP direction.
+At time 1231.24 : Elevator 6 arrives at floor number 55 and customer 111 enters the elevator
+At time 1231.24 : Customer 111 in Elevator 6 would like to go to floor number 87
+At time 1234.62 : Customer 115 leaves Elevator 2 at floor 42
+At time 1235.94 : Customer 110 leaves Elevator 10 at floor 44
+At time 1241.4 : Customer 119 arrives at floor number 22 and places a call in the DOWN direction.
+At time 1244.04 : Customer 107 leaves Elevator 5 at floor 81
+At time 1250.94 : Elevator 10 arrives at floor number 41 and customer 116 enters the elevator
+At time 1250.94 : Customer 116 in Elevator 10 would like to go to floor number 3
+At time 1260.94 : Customer 114 leaves Elevator 10 at floor 39
+At time 1261.43 : Customer 55 leaves Elevator 4 at floor 41
+At time 1262.2 : Customer 120 arrives at floor number 23 and places a call in the UP direction.
+At time 1266.58 : Customer 87 leaves Elevator 4 at floor 24
+At time 1270.94 : Customer 108 leaves Elevator 10 at floor 37
+At time 1273.08 : Customer 121 arrives at floor number 27 and places a call in the UP direction.
+At time 1274.38 : Customer 54 leaves Elevator 9 at floor 70
+At time 1279.04 : Elevator 5 arrives at floor number 74 and customer 117 enters the elevator
+At time 1279.04 : Customer 117 in Elevator 5 would like to go to floor number 58
+At time 1285.63 : Customer 122 arrives at floor number 15 and places a call in the UP direction.
+At time 1304.55 : Customer 123 arrives at floor number 72 and places a call in the UP direction.
+At time 1311.43 : Customer 10 leaves Elevator 4 at floor 73
+At time 1315.94 : Elevator 10 arrives at floor number 28 and customer 118 enters the elevator
+At time 1315.94 : Customer 118 in Elevator 10 would like to go to floor number 81
+At time 1316.24 : Elevator 6 arrives at floor number 72 and customer 123 enters the elevator
+At time 1316.24 : Customer 123 in Elevator 6 would like to go to floor number 97
+At time 1318.75 : Customer 124 arrives at floor number 58 and places a call in the DOWN direction.
+At time 1322.88 : Elevator 2 arrives at floor number 58 and customer 124 enters the elevator
+At time 1322.88 : Customer 124 in Elevator 2 would like to go to floor number 9
+At time 1326.24 : Customer 113 leaves Elevator 6 at floor 74
+At time 1328.49 : Customer 125 arrives at floor number 92 and places a call in the DOWN direction.
+At time 1330.48 : Customer 126 arrives at floor number 75 and places a call in the DOWN direction.
+At time 1335.32 : Customer 96 leaves Elevator 8 at floor 92
+At time 1341.48 : Customer 127 arrives at floor number 33 and places a call in the UP direction.
+At time 1345.94 : Elevator 10 arrives at floor number 22 and customer 119 enters the elevator
+At time 1345.94 : Customer 119 in Elevator 10 would like to go to floor number 18
+At time 1355.7 : Customer 128 arrives at floor number 38 and places a call in the DOWN direction.
+At time 1356.43 : Customer 26 leaves Elevator 4 at floor 4
+At time 1359.04 : Customer 117 leaves Elevator 5 at floor 58
+At time 1359.38 : Elevator 9 arrives at floor number 75 and customer 126 enters the elevator
+At time 1359.38 : Customer 126 in Elevator 9 would like to go to floor number 55
+At time 1365.94 : Customer 119 leaves Elevator 10 at floor 18
+At time 1369.01 : Customer 129 arrives at floor number 81 and places a call in the DOWN direction.
+At time 1370.33 : Customer 72 leaves Elevator 1 at floor 67
+At time 1370.33 : Customer 94 leaves Elevator 1 at floor 83
+At time 1374.08 : Elevator 8 arrives at floor number 23 and customer 120 enters the elevator
+At time 1374.08 : Customer 120 in Elevator 8 would like to go to floor number 76
+At time 1376.43 : Customer 42 leaves Elevator 4 at floor 18
+At time 1376.58 : Elevator 4 arrives at floor number 38 and customer 128 enters the elevator
+At time 1376.58 : Customer 128 in Elevator 4 would like to go to floor number 22
+At time 1376.78 : Elevator 6 arrives at floor number 81 and customer 129 enters the elevator
+At time 1376.78 : Customer 129 in Elevator 6 would like to go to floor number 44
+At time 1377.92 : Customer 95 leaves Elevator 3 at floor 37
+At time 1380.94 : Elevator 8 arrives at floor number 15 and customer 122 enters the elevator
+At time 1380.94 : Customer 122 in Elevator 8 would like to go to floor number 80
+At time 1384.22 : Customer 130 arrives at floor number 8 and places a call in the UP direction.
+At time 1386.55 : Customer 131 arrives at floor number 46 and places a call in the UP direction.
+At time 1390.33 : Customer 100 leaves Elevator 1 at floor 71
+At time 1391.24 : Customer 111 leaves Elevator 6 at floor 87
+At time 1397.97 : Customer 132 arrives at floor number 70 and places a call in the DOWN direction.
+At time 1402.76 : Customer 133 arrives at floor number 86 and places a call in the DOWN direction.
+At time 1405.03 : Customer 134 arrives at floor number 75 and places a call in the DOWN direction.
+At time 1414.06 : Customer 135 arrives at floor number 3 and places a call in the UP direction.
+At time 1420.32 : Elevator 8 arrives at floor number 3 and customer 135 enters the elevator
+At time 1420.32 : Customer 135 in Elevator 8 would like to go to floor number 95
+At time 1420.47 : Customer 136 arrives at floor number 39 and places a call in the UP direction.
+At time 1422.32 : Elevator 6 arrives at floor number 75 and customer 134 enters the elevator
+At time 1422.32 : Customer 134 in Elevator 6 would like to go to floor number 37
+At time 1426.39 : Customer 137 arrives at floor number 79 and places a call in the DOWN direction.
+At time 1431.43 : Customer 51 leaves Elevator 4 at floor 7
+At time 1434.41 : Customer 138 arrives at floor number 42 and places a call in the DOWN direction.
+At time 1436.58 : Customer 112 leaves Elevator 4 at floor 26
+At time 1439.04 : Elevator 5 arrives at floor number 42 and customer 138 enters the elevator
+At time 1439.04 : Customer 138 in Elevator 5 would like to go to floor number 6
+At time 1440.94 : Customer 116 leaves Elevator 10 at floor 3
+At time 1441.24 : Customer 123 leaves Elevator 6 at floor 97
+At time 1447.32 : Elevator 6 arrives at floor number 70 and customer 132 enters the elevator
+At time 1447.32 : Customer 132 in Elevator 6 would like to go to floor number 42
+At time 1450.81 : Customer 139 arrives at floor number 86 and places a call in the DOWN direction.
+At time 1456.58 : Customer 128 leaves Elevator 4 at floor 22
+At time 1457.05 : Customer 140 arrives at floor number 48 and places a call in the DOWN direction.
+At time 1460.33 : Customer 88 leaves Elevator 1 at floor 85
+At time 1464.67 : Customer 141 arrives at floor number 52 and places a call in the DOWN direction.
+At time 1466.24 : Elevator 6 arrives at floor number 92 and customer 125 enters the elevator
+At time 1466.24 : Customer 125 in Elevator 6 would like to go to floor number 48
+At time 1470.33 : Customer 12 leaves Elevator 1 at floor 99
+At time 1470.34 : Customer 142 arrives at floor number 86 and places a call in the DOWN direction.
+At time 1471.58 : Customer 109 leaves Elevator 4 at floor 19
+At time 1473.4 : Elevator 9 arrives at floor number 79 and customer 137 enters the elevator
+At time 1473.4 : Customer 137 in Elevator 9 would like to go to floor number 68
+At time 1479.38 : Customer 126 leaves Elevator 9 at floor 55
+At time 1481 : Customer 143 arrives at floor number 32 and places a call in the UP direction.
+At time 1481.15 : Elevator 9 arrives at floor number 86 and customer 133 enters the elevator
+At time 1481.15 : Customer 133 in Elevator 9 would like to go to floor number 80
+At time 1487.24 : Elevator 9 arrives at floor number 86 and customer 139 enters the elevator
+At time 1487.24 : Customer 139 in Elevator 9 would like to go to floor number 53
+At time 1495.32 : Elevator 8 arrives at floor number 8 and customer 130 enters the elevator
+At time 1495.32 : Customer 130 in Elevator 8 would like to go to floor number 33
+At time 1495.96 : Customer 144 arrives at floor number 8 and places a call in the DOWN direction.
+At time 1500.86 : Elevator 2 arrives at floor number 32 and customer 143 enters the elevator
+At time 1500.86 : Customer 143 in Elevator 2 would like to go to floor number 62
+At time 1503.85 : Customer 145 arrives at floor number 94 and places a call in the DOWN direction.
+At time 1511.57 : Customer 146 arrives at floor number 59 and places a call in the DOWN direction.
+At time 1512.97 : Customer 147 arrives at floor number 80 and places a call in the UP direction.
+At time 1526.3 : Elevator 9 arrives at floor number 86 and customer 142 enters the elevator
+At time 1526.3 : Customer 142 in Elevator 9 would like to go to floor number 77
+At time 1529.82 : Customer 81 leaves Elevator 7 at floor 88
+At time 1532.92 : Customer 148 arrives at floor number 96 and places a call in the UP direction.
+At time 1537.32 : Elevator 6 arrives at floor number 52 and customer 141 enters the elevator
+At time 1537.32 : Customer 141 in Elevator 6 would like to go to floor number 40
+At time 1541.58 : Elevator 4 arrives at floor number 33 and customer 127 enters the elevator
+At time 1541.58 : Customer 127 in Elevator 4 would like to go to floor number 95
+At time 1545.32 : Elevator 8 arrives at floor number 8 and customer 144 enters the elevator
+At time 1545.32 : Customer 144 in Elevator 8 would like to go to floor number 3
+At time 1550.74 : Customer 149 arrives at floor number 100 and places a call in the DOWN direction.
+At time 1556.48 : Customer 150 arrives at floor number 13 and places a call in the UP direction.
+At time 1557.32 : Elevator 6 arrives at floor number 48 and customer 140 enters the elevator
+At time 1557.32 : Customer 140 in Elevator 6 would like to go to floor number 28
+At time 1557.32 : Customer 125 leaves Elevator 6 at floor 48
+At time 1560.97 : Customer 151 arrives at floor number 61 and places a call in the DOWN direction.
+At time 1562.42 : Customer 133 leaves Elevator 9 at floor 80
+At time 1562.42 : Elevator 9 arrives at floor number 80 and customer 147 enters the elevator
+At time 1562.42 : Customer 147 in Elevator 9 would like to go to floor number 90
+At time 1570.32 : Elevator 8 arrives at floor number 13 and customer 150 enters the elevator
+At time 1570.32 : Customer 150 in Elevator 8 would like to go to floor number 98
+At time 1571.58 : Elevator 4 arrives at floor number 39 and customer 136 enters the elevator
+At time 1571.58 : Customer 136 in Elevator 4 would like to go to floor number 69
+At time 1576.14 : Customer 124 leaves Elevator 2 at floor 9
+At time 1577.32 : Customer 129 leaves Elevator 6 at floor 44
+At time 1577.42 : Customer 142 leaves Elevator 9 at floor 77
+At time 1579.82 : Customer 62 leaves Elevator 7 at floor 98
+At time 1580.33 : Elevator 1 arrives at floor number 61 and customer 151 enters the elevator
+At time 1580.33 : Customer 151 in Elevator 1 would like to go to floor number 50
+At time 1581.19 : Customer 152 arrives at floor number 35 and places a call in the DOWN direction.
+At time 1583.69 : Customer 153 arrives at floor number 50 and places a call in the UP direction.
+At time 1587.32 : Customer 132 leaves Elevator 6 at floor 42
+At time 1590.33 : Elevator 1 arrives at floor number 59 and customer 146 enters the elevator
+At time 1590.33 : Customer 146 in Elevator 1 would like to go to floor number 11
+At time 1593.54 : Customer 154 arrives at floor number 45 and places a call in the DOWN direction.
+At time 1594.62 : Customer 57 leaves Elevator 2 at floor 2
+At time 1594.62 : Customer 105 leaves Elevator 2 at floor 84
+At time 1596.68 : Elevator 2 arrives at floor number 35 and customer 152 enters the elevator
+At time 1596.68 : Customer 152 in Elevator 2 would like to go to floor number 1
+At time 1597.32 : Customer 141 leaves Elevator 6 at floor 40
+At time 1608.05 : Customer 155 arrives at floor number 43 and places a call in the UP direction.
+At time 1610.87 : Customer 156 arrives at floor number 1 and places a call in the UP direction.
+At time 1612.32 : Customer 134 leaves Elevator 6 at floor 37
+At time 1612.92 : Elevator 3 arrives at floor number 100 and customer 149 enters the elevator
+At time 1612.92 : Customer 149 in Elevator 3 would like to go to floor number 84
+At time 1622.42 : Customer 137 leaves Elevator 9 at floor 68
+At time 1626.58 : Elevator 4 arrives at floor number 50 and customer 153 enters the elevator
+At time 1626.58 : Customer 153 in Elevator 4 would like to go to floor number 100
+At time 1627.29 : Customer 157 arrives at floor number 63 and places a call in the UP direction.
+At time 1627.88 : Elevator 7 arrives at floor number 94 and customer 145 enters the elevator
+At time 1627.88 : Customer 145 in Elevator 7 would like to go to floor number 73
+At time 1635.33 : Customer 151 leaves Elevator 1 at floor 50
+At time 1635.34 : Customer 158 arrives at floor number 59 and places a call in the DOWN direction.
+At time 1635.84 : Elevator 8 arrives at floor number 27 and customer 121 enters the elevator
+At time 1635.84 : Customer 121 in Elevator 8 would like to go to floor number 97
+At time 1640.94 : Elevator 10 arrives at floor number 43 and customer 155 enters the elevator
+At time 1640.94 : Customer 155 in Elevator 10 would like to go to floor number 67
+At time 1642.42 : Customer 147 leaves Elevator 9 at floor 90
+At time 1643.52 : Customer 159 arrives at floor number 26 and places a call in the UP direction.
+At time 1652.65 : Customer 160 arrives at floor number 47 and places a call in the DOWN direction.
+At time 1654.82 : Elevator 7 arrives at floor number 63 and customer 157 enters the elevator
+At time 1654.82 : Customer 157 in Elevator 7 would like to go to floor number 72
+At time 1657.32 : Customer 140 leaves Elevator 6 at floor 28
+At time 1660.14 : Customer 161 arrives at floor number 96 and places a call in the DOWN direction.
+At time 1660.33 : Elevator 1 arrives at floor number 45 and customer 154 enters the elevator
+At time 1660.33 : Customer 154 in Elevator 1 would like to go to floor number 7
+At time 1660.98 : Customer 162 arrives at floor number 51 and places a call in the DOWN direction.
+At time 1661.58 : Customer 163 arrives at floor number 82 and places a call in the DOWN direction.
+At time 1667.32 : Elevator 6 arrives at floor number 26 and customer 159 enters the elevator
+At time 1667.32 : Customer 159 in Elevator 6 would like to go to floor number 32
+At time 1669.62 : Customer 98 leaves Elevator 2 at floor 57
+At time 1672.42 : Elevator 9 arrives at floor number 96 and customer 148 enters the elevator
+At time 1672.42 : Customer 148 in Elevator 9 would like to go to floor number 98
+At time 1673.15 : Customer 164 arrives at floor number 75 and places a call in the DOWN direction.
+At time 1674.82 : Elevator 7 arrives at floor number 59 and customer 158 enters the elevator
+At time 1674.82 : Customer 158 in Elevator 7 would like to go to floor number 33
+At time 1684.13 : Elevator 5 arrives at floor number 82 and customer 163 enters the elevator
+At time 1684.13 : Customer 163 in Elevator 5 would like to go to floor number 58
+At time 1685.81 : Customer 165 arrives at floor number 37 and places a call in the UP direction.
+At time 1687.36 : Elevator 3 arrives at floor number 96 and customer 161 enters the elevator
+At time 1687.36 : Customer 161 in Elevator 3 would like to go to floor number 6
+At time 1690.32 : Customer 130 leaves Elevator 8 at floor 33
+At time 1690.59 : Customer 143 leaves Elevator 2 at floor 62
+At time 1692.92 : Customer 149 leaves Elevator 3 at floor 84
+At time 1697.32 : Customer 159 leaves Elevator 6 at floor 32
+At time 1697.42 : Customer 139 leaves Elevator 9 at floor 53
+At time 1698.72 : Elevator 9 arrives at floor number 46 and customer 131 enters the elevator
+At time 1698.72 : Customer 131 in Elevator 9 would like to go to floor number 60
+At time 1701.06 : Customer 166 arrives at floor number 5 and places a call in the UP direction.
+At time 1701.09 : Customer 167 arrives at floor number 18 and places a call in the DOWN direction.
+At time 1704.82 : Customer 145 leaves Elevator 7 at floor 73
+At time 1711.42 : Elevator 8 arrives at floor number 1 and customer 156 enters the elevator
+At time 1711.42 : Customer 156 in Elevator 8 would like to go to floor number 26
+At time 1714.82 : Elevator 7 arrives at floor number 51 and customer 162 enters the elevator
+At time 1714.82 : Customer 162 in Elevator 7 would like to go to floor number 7
+At time 1718.36 : Customer 168 arrives at floor number 54 and places a call in the DOWN direction.
+At time 1720.94 : Customer 60 leaves Elevator 10 at floor 77
+At time 1721.58 : Customer 136 leaves Elevator 4 at floor 69
+At time 1722.32 : Elevator 6 arrives at floor number 37 and customer 165 enters the elevator
+At time 1722.32 : Customer 165 in Elevator 6 would like to go to floor number 78
+At time 1728.02 : Customer 169 arrives at floor number 53 and places a call in the UP direction.
+At time 1734.82 : Elevator 7 arrives at floor number 47 and customer 160 enters the elevator
+At time 1734.82 : Customer 160 in Elevator 7 would like to go to floor number 46
+At time 1737.92 : Elevator 3 arrives at floor number 75 and customer 164 enters the elevator
+At time 1737.92 : Customer 164 in Elevator 3 would like to go to floor number 69
+At time 1739.82 : Customer 160 leaves Elevator 7 at floor 46
+At time 1740.22 : Customer 170 arrives at floor number 2 and places a call in the UP direction.
+At time 1750.36 : Customer 171 arrives at floor number 83 and places a call in the DOWN direction.
+At time 1761.45 : Customer 172 arrives at floor number 45 and places a call in the DOWN direction.
+At time 1765.94 : Elevator 10 arrives at floor number 18 and customer 167 enters the elevator
+At time 1765.94 : Customer 167 in Elevator 10 would like to go to floor number 8
+At time 1766.68 : Customer 152 leaves Elevator 2 at floor 1
+At time 1767.92 : Customer 164 leaves Elevator 3 at floor 69
+At time 1771.68 : Elevator 2 arrives at floor number 2 and customer 170 enters the elevator
+At time 1771.68 : Customer 170 in Elevator 2 would like to go to floor number 6
+At time 1776.49 : Elevator 5 arrives at floor number 83 and customer 171 enters the elevator
+At time 1776.49 : Customer 171 in Elevator 5 would like to go to floor number 68
+At time 1777.05 : Elevator 6 arrives at floor number 40 and customer 102 enters the elevator
+At time 1777.05 : Customer 102 in Elevator 6 would like to go to floor number 68
+At time 1782.2 : Customer 173 arrives at floor number 8 and places a call in the DOWN direction.
+At time 1782.42 : Customer 148 leaves Elevator 9 at floor 98
+At time 1786.5 : Customer 156 leaves Elevator 8 at floor 26
+At time 1786.68 : Elevator 2 arrives at floor number 5 and customer 166 enters the elevator
+At time 1786.68 : Customer 166 in Elevator 2 would like to go to floor number 79
+At time 1789.95 : Customer 174 arrives at floor number 38 and places a call in the UP direction.
+At time 1791.68 : Customer 170 leaves Elevator 2 at floor 6
+At time 1793.28 : Customer 175 arrives at floor number 76 and places a call in the UP direction.
+At time 1793.74 : Elevator 5 arrives at floor number 76 and customer 175 enters the elevator
+At time 1793.74 : Customer 175 in Elevator 5 would like to go to floor number 79
+At time 1802.32 : Elevator 6 arrives at floor number 53 and customer 169 enters the elevator
+At time 1802.32 : Customer 169 in Elevator 6 would like to go to floor number 59
+At time 1802.42 : Customer 131 leaves Elevator 9 at floor 60
+At time 1804.82 : Customer 158 leaves Elevator 7 at floor 33
+At time 1808.74 : Customer 175 leaves Elevator 5 at floor 79
+At time 1813.38 : Customer 176 arrives at floor number 46 and places a call in the UP direction.
+At time 1830.33 : Customer 146 leaves Elevator 1 at floor 11
+At time 1830.94 : Customer 118 leaves Elevator 10 at floor 81
+At time 1832.32 : Customer 169 leaves Elevator 6 at floor 59
+At time 1832.42 : Elevator 9 arrives at floor number 54 and customer 168 enters the elevator
+At time 1832.42 : Customer 168 in Elevator 9 would like to go to floor number 33
+At time 1832.45 : Customer 177 arrives at floor number 42 and places a call in the UP direction.
+At time 1836.45 : Customer 178 arrives at floor number 76 and places a call in the UP direction.
+At time 1845.33 : Elevator 1 arrives at floor number 8 and customer 173 enters the elevator
+At time 1845.33 : Customer 173 in Elevator 1 would like to go to floor number 0
+At time 1847.55 : Customer 179 arrives at floor number 43 and places a call in the DOWN direction.
+At time 1849.23 : Customer 163 leaves Elevator 5 at floor 58
+At time 1850.33 : Customer 154 leaves Elevator 1 at floor 7
+At time 1851.58 : Customer 127 leaves Elevator 4 at floor 95
+At time 1859.82 : Customer 157 leaves Elevator 7 at floor 72
+At time 1861.4 : Customer 180 arrives at floor number 9 and places a call in the UP direction.
+At time 1863.1 : Customer 181 arrives at floor number 20 and places a call in the UP direction.
+At time 1865.94 : Elevator 10 arrives at floor number 38 and customer 174 enters the elevator
+At time 1865.94 : Customer 174 in Elevator 10 would like to go to floor number 41
+At time 1876.58 : Customer 153 leaves Elevator 4 at floor 100
+At time 1877.14 : Customer 182 arrives at floor number 4 and places a call in the DOWN direction.
+At time 1877.32 : Customer 102 leaves Elevator 6 at floor 68
+At time 1877.42 : Elevator 9 arrives at floor number 45 and customer 172 enters the elevator
+At time 1877.42 : Customer 172 in Elevator 9 would like to go to floor number 18
+At time 1882.42 : Elevator 9 arrives at floor number 46 and customer 176 enters the elevator
+At time 1882.42 : Customer 176 in Elevator 9 would like to go to floor number 50
+At time 1885.33 : Customer 173 leaves Elevator 1 at floor 0
+At time 1887.42 : Elevator 9 arrives at floor number 43 and customer 179 enters the elevator
+At time 1887.42 : Customer 179 in Elevator 9 would like to go to floor number 41
+At time 1889.97 : Customer 183 arrives at floor number 63 and places a call in the UP direction.
+At time 1896.5 : Elevator 8 arrives at floor number 4 and customer 182 enters the elevator
+At time 1896.5 : Customer 182 in Elevator 8 would like to go to floor number 2
+At time 1897.42 : Customer 179 leaves Elevator 9 at floor 41
+At time 1900.32 : Customer 135 leaves Elevator 8 at floor 95
+At time 1903.74 : Customer 171 leaves Elevator 5 at floor 68
+At time 1904.44 : Customer 184 arrives at floor number 78 and places a call in the DOWN direction.
+At time 1909.7 : Elevator 8 arrives at floor number 20 and customer 181 enters the elevator
+At time 1909.7 : Customer 181 in Elevator 8 would like to go to floor number 92
+At time 1910.94 : Customer 155 leaves Elevator 10 at floor 67
+At time 1914.63 : Customer 185 arrives at floor number 62 and places a call in the DOWN direction.
+At time 1915.94 : Elevator 10 arrives at floor number 42 and customer 177 enters the elevator
+At time 1915.94 : Customer 177 in Elevator 10 would like to go to floor number 68
+At time 1917.32 : Elevator 6 arrives at floor number 76 and customer 178 enters the elevator
+At time 1917.32 : Customer 178 in Elevator 6 would like to go to floor number 88
+At time 1924.38 : Customer 186 arrives at floor number 89 and places a call in the DOWN direction.
+At time 1925.32 : Customer 120 leaves Elevator 8 at floor 76
+At time 1927.32 : Customer 165 leaves Elevator 6 at floor 78
+At time 1930.33 : Elevator 1 arrives at floor number 9 and customer 180 enters the elevator
+At time 1930.33 : Customer 180 in Elevator 1 would like to go to floor number 43
+At time 1934.62 : Customer 39 leaves Elevator 2 at floor 34
+At time 1934.82 : Customer 162 leaves Elevator 7 at floor 7
+At time 1936.58 : Elevator 4 arrives at floor number 78 and customer 184 enters the elevator
+At time 1936.58 : Customer 184 in Elevator 4 would like to go to floor number 15
+At time 1937.42 : Customer 168 leaves Elevator 9 at floor 33
+At time 1942.73 : Customer 187 arrives at floor number 61 and places a call in the DOWN direction.
+At time 1945.32 : Customer 122 leaves Elevator 8 at floor 80
+At time 1948.42 : Customer 188 arrives at floor number 75 and places a call in the DOWN direction.
+At time 1950.94 : Customer 174 leaves Elevator 10 at floor 41
+At time 1951.57 : Customer 189 arrives at floor number 88 and places a call in the DOWN direction.
+At time 1951.58 : Elevator 4 arrives at floor number 75 and customer 188 enters the elevator
+At time 1951.58 : Customer 188 in Elevator 4 would like to go to floor number 52
+At time 1965.77 : Customer 190 arrives at floor number 26 and places a call in the UP direction.
+At time 1967.78 : Elevator 5 arrives at floor number 89 and customer 186 enters the elevator
+At time 1967.78 : Customer 186 in Elevator 5 would like to go to floor number 2
+At time 1971.75 : Customer 191 arrives at floor number 70 and places a call in the DOWN direction.
+At time 1976.58 : Elevator 4 arrives at floor number 70 and customer 191 enters the elevator
+At time 1976.58 : Customer 191 in Elevator 4 would like to go to floor number 57
+At time 1977.32 : Customer 178 leaves Elevator 6 at floor 88
+At time 1978.7 : Customer 192 arrives at floor number 82 and places a call in the DOWN direction.
+At time 1979.62 : Customer 4 leaves Elevator 2 at floor 25
+At time 1989.59 : Customer 193 arrives at floor number 79 and places a call in the UP direction.
+At time 1991.7 : Customer 194 arrives at floor number 75 and places a call in the DOWN direction.
+At time 1995.32 : Customer 150 leaves Elevator 8 at floor 98
+At time 2000.17 : Customer 195 arrives at floor number 79 and places a call in the UP direction.
+At time 2002.78 : Elevator 5 arrives at floor number 82 and customer 192 enters the elevator
+At time 2002.78 : Customer 192 in Elevator 5 would like to go to floor number 28
+At time 2003.14 : Customer 196 arrives at floor number 61 and places a call in the DOWN direction.
+At time 2004.62 : Customer 36 leaves Elevator 2 at floor 20
+At time 2006.5 : Elevator 8 arrives at floor number 26 and customer 190 enters the elevator
+At time 2006.5 : Customer 190 in Elevator 8 would like to go to floor number 71
+At time 2010.36 : Elevator 5 arrives at floor number 88 and customer 189 enters the elevator
+At time 2010.36 : Customer 189 in Elevator 5 would like to go to floor number 62
+At time 2012.42 : Customer 172 leaves Elevator 9 at floor 18
+At time 2016.58 : Elevator 4 arrives at floor number 62 and customer 185 enters the elevator
+At time 2016.58 : Customer 185 in Elevator 4 would like to go to floor number 57
+At time 2019.04 : Customer 138 leaves Elevator 5 at floor 6
+At time 2021.58 : Elevator 4 arrives at floor number 61 and customer 187 enters the elevator
+At time 2021.58 : Customer 187 in Elevator 4 would like to go to floor number 10
+At time 2021.58 : Elevator 4 arrives at floor number 61 and customer 196 enters the elevator
+At time 2021.58 : Customer 196 in Elevator 4 would like to go to floor number 51
+At time 2022.65 : Customer 197 arrives at floor number 60 and places a call in the DOWN direction.
+At time 2026.58 : Elevator 4 arrives at floor number 60 and customer 197 enters the elevator
+At time 2026.58 : Customer 197 in Elevator 4 would like to go to floor number 11
+At time 2036.39 : Customer 198 arrives at floor number 26 and places a call in the UP direction.
+At time 2036.97 : Customer 199 arrives at floor number 46 and places a call in the DOWN direction.
+At time 2041.58 : Customer 191 leaves Elevator 4 at floor 57
+At time 2041.58 : Customer 185 leaves Elevator 4 at floor 57
+At time 2042.32 : Elevator 6 arrives at floor number 75 and customer 194 enters the elevator
+At time 2042.32 : Customer 194 in Elevator 6 would like to go to floor number 68
+At time 2045.29 : Customer 200 arrives at floor number 7 and places a call in the UP direction.
+At time 2049.62 : Customer 3 leaves Elevator 2 at floor 11
+At time 2050.08 : Customer 201 arrives at floor number 43 and places a call in the DOWN direction.
+At time 2052.42 : Elevator 9 arrives at floor number 26 and customer 198 enters the elevator
+At time 2052.42 : Customer 198 in Elevator 9 would like to go to floor number 53
+At time 2052.57 : Customer 202 arrives at floor number 4 and places a call in the UP direction.
+At time 2060.37 : Customer 203 arrives at floor number 100 and places a call in the DOWN direction.
+At time 2060.94 : Elevator 10 arrives at floor number 63 and customer 183 enters the elevator
+At time 2060.94 : Customer 183 in Elevator 10 would like to go to floor number 77
+At time 2064.57 : Customer 204 arrives at floor number 5 and places a call in the DOWN direction.
+At time 2066.58 : Customer 188 leaves Elevator 4 at floor 52
+At time 2071.58 : Customer 196 leaves Elevator 4 at floor 51
+At time 2077.88 : Customer 205 arrives at floor number 93 and places a call in the DOWN direction.
+At time 2080.63 : Elevator 5 arrives at floor number 93 and customer 205 enters the elevator
+At time 2080.63 : Customer 205 in Elevator 5 would like to go to floor number 48
+At time 2082.92 : Customer 161 leaves Elevator 3 at floor 6
+At time 2085.94 : Customer 177 leaves Elevator 10 at floor 68
+At time 2087.92 : Elevator 3 arrives at floor number 7 and customer 200 enters the elevator
+At time 2087.92 : Customer 200 in Elevator 3 would like to go to floor number 32
+At time 2087.92 : Elevator 3 arrives at floor number 5 and customer 204 enters the elevator
+At time 2087.92 : Customer 204 in Elevator 3 would like to go to floor number 3
+At time 2092.92 : Elevator 3 arrives at floor number 4 and customer 202 enters the elevator
+At time 2092.92 : Customer 202 in Elevator 3 would like to go to floor number 84
+At time 2096.58 : Elevator 4 arrives at floor number 46 and customer 199 enters the elevator
+At time 2096.58 : Customer 199 in Elevator 4 would like to go to floor number 6
+At time 2097.75 : Customer 206 arrives at floor number 36 and places a call in the UP direction.
+At time 2097.92 : Customer 204 leaves Elevator 3 at floor 3
+At time 2100.33 : Customer 180 leaves Elevator 1 at floor 43
+At time 2102.42 : Elevator 9 arrives at floor number 36 and customer 206 enters the elevator
+At time 2102.42 : Customer 206 in Elevator 9 would like to go to floor number 76
+At time 2111.58 : Elevator 4 arrives at floor number 43 and customer 201 enters the elevator
+At time 2111.58 : Customer 201 in Elevator 4 would like to go to floor number 2
+At time 2115.97 : Customer 207 arrives at floor number 48 and places a call in the DOWN direction.
+At time 2122.42 : Customer 208 arrives at floor number 70 and places a call in the DOWN direction.
+At time 2126.5 : Customer 182 leaves Elevator 8 at floor 2
+At time 2129.58 : Customer 209 arrives at floor number 44 and places a call in the DOWN direction.
+At time 2130.94 : Customer 183 leaves Elevator 10 at floor 77
+At time 2135.35 : Customer 210 arrives at floor number 79 and places a call in the DOWN direction.
+At time 2140.94 : Elevator 10 arrives at floor number 79 and customer 193 enters the elevator
+At time 2140.94 : Customer 193 in Elevator 10 would like to go to floor number 91
+At time 2140.94 : Elevator 10 arrives at floor number 79 and customer 195 enters the elevator
+At time 2140.94 : Customer 195 in Elevator 10 would like to go to floor number 96
+At time 2147.32 : Customer 194 leaves Elevator 6 at floor 68
+At time 2156.11 : Elevator 5 arrives at floor number 79 and customer 210 enters the elevator
+At time 2156.11 : Customer 210 in Elevator 5 would like to go to floor number 12
+At time 2156.19 : Customer 211 arrives at floor number 85 and places a call in the DOWN direction.
+At time 2156.68 : Customer 166 leaves Elevator 2 at floor 79
+At time 2163.51 : Customer 212 arrives at floor number 13 and places a call in the UP direction.
+At time 2182.43 : Customer 213 arrives at floor number 70 and places a call in the DOWN direction.
+At time 2185.94 : Elevator 10 arrives at floor number 70 and customer 208 enters the elevator
+At time 2185.94 : Customer 208 in Elevator 10 would like to go to floor number 27
+At time 2185.94 : Elevator 10 arrives at floor number 70 and customer 213 enters the elevator
+At time 2185.94 : Customer 213 in Elevator 10 would like to go to floor number 25
+At time 2187.87 : Customer 214 arrives at floor number 16 and places a call in the UP direction.
+At time 2202.32 : Elevator 6 arrives at floor number 85 and customer 211 enters the elevator
+At time 2202.32 : Customer 211 in Elevator 6 would like to go to floor number 56
+At time 2208.87 : Customer 215 arrives at floor number 63 and places a call in the UP direction.
+At time 2214.82 : Elevator 7 arrives at floor number 63 and customer 215 enters the elevator
+At time 2214.82 : Customer 215 in Elevator 7 would like to go to floor number 90
+At time 2217.93 : Customer 189 leaves Elevator 5 at floor 62
+At time 2221.65 : Customer 216 arrives at floor number 39 and places a call in the UP direction.
+At time 2230.83 : Customer 217 arrives at floor number 32 and places a call in the DOWN direction.
+At time 2231.5 : Customer 190 leaves Elevator 8 at floor 71
+At time 2232.92 : Customer 200 leaves Elevator 3 at floor 32
+At time 2235.85 : Elevator 2 arrives at floor number 32 and customer 217 enters the elevator
+At time 2235.85 : Customer 217 in Elevator 2 would like to go to floor number 6
+At time 2236.01 : Customer 218 arrives at floor number 37 and places a call in the UP direction.
+At time 2241.35 : Customer 121 leaves Elevator 8 at floor 97
+At time 2242.47 : Customer 219 arrives at floor number 94 and places a call in the DOWN direction.
+At time 2251.58 : Customer 184 leaves Elevator 4 at floor 15
+At time 2253.83 : Elevator 5 arrives at floor number 94 and customer 219 enters the elevator
+At time 2253.83 : Customer 219 in Elevator 5 would like to go to floor number 20
+At time 2256.28 : Customer 220 arrives at floor number 57 and places a call in the UP direction.
+At time 2258.09 : Customer 221 arrives at floor number 53 and places a call in the UP direction.
+At time 2260.81 : Elevator 2 arrives at floor number 39 and customer 216 enters the elevator
+At time 2260.81 : Customer 216 in Elevator 2 would like to go to floor number 93
+At time 2269.11 : Elevator 3 arrives at floor number 13 and customer 212 enters the elevator
+At time 2269.11 : Customer 212 in Elevator 3 would like to go to floor number 26
+At time 2271.58 : Customer 197 leaves Elevator 4 at floor 11
+At time 2274.14 : Customer 222 arrives at floor number 16 and places a call in the UP direction.
+At time 2276.58 : Customer 187 leaves Elevator 4 at floor 10
+At time 2287.42 : Customer 198 leaves Elevator 9 at floor 53
+At time 2293.27 : Customer 223 arrives at floor number 30 and places a call in the UP direction.
+At time 2295.94 : Elevator 10 arrives at floor number 48 and customer 207 enters the elevator
+At time 2295.94 : Customer 207 in Elevator 10 would like to go to floor number 35
+At time 2296.58 : Customer 199 leaves Elevator 4 at floor 6
+At time 2302.42 : Customer 206 leaves Elevator 9 at floor 76
+At time 2312.84 : Customer 224 arrives at floor number 73 and places a call in the DOWN direction.
+At time 2313.71 : Customer 225 arrives at floor number 17 and places a call in the UP direction.
+At time 2315.94 : Elevator 10 arrives at floor number 44 and customer 209 enters the elevator
+At time 2315.94 : Customer 209 in Elevator 10 would like to go to floor number 39
+At time 2316.58 : Customer 201 leaves Elevator 4 at floor 2
+At time 2321.11 : Customer 205 leaves Elevator 5 at floor 48
+At time 2324.81 : Customer 226 arrives at floor number 10 and places a call in the UP direction.
+At time 2332.81 : Elevator 3 arrives at floor number 16 and customer 214 enters the elevator
+At time 2332.81 : Customer 214 in Elevator 3 would like to go to floor number 98
+At time 2336.5 : Customer 181 leaves Elevator 8 at floor 92
+At time 2338.43 : Customer 227 arrives at floor number 45 and places a call in the DOWN direction.
+At time 2340.61 : Customer 228 arrives at floor number 81 and places a call in the DOWN direction.
+At time 2340.94 : Customer 209 leaves Elevator 10 at floor 39
+At time 2347.32 : Customer 211 leaves Elevator 6 at floor 56
+At time 2349.8 : Customer 229 arrives at floor number 43 and places a call in the UP direction.
+At time 2349.82 : Customer 215 leaves Elevator 7 at floor 90
+At time 2356.58 : Elevator 4 arrives at floor number 10 and customer 226 enters the elevator
+At time 2356.58 : Customer 226 in Elevator 4 would like to go to floor number 15
+At time 2360.87 : Elevator 7 arrives at floor number 73 and customer 224 enters the elevator
+At time 2360.87 : Customer 224 in Elevator 7 would like to go to floor number 13
+At time 2360.94 : Customer 207 leaves Elevator 10 at floor 35
